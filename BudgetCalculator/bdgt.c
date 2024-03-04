@@ -9,6 +9,7 @@ typedef struct {
     char name[50];
     float amount;
 } FinancialItem;
+
 // Arrays for storing income and bill items
 FinancialItem incomes[MAX_ITEMS];
 FinancialItem bills[MAX_ITEMS];
