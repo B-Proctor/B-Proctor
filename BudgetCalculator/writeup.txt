@@ -1,0 +1,26 @@
+Budget Calculator in C
+-----
+Program Log;
+
+--
+Features;
+Saving and loading budget information;
+Can be modified in Excel
+Home page with Displayed current monthly income vs Bills and extra money
+Bills and incomes are displayed nearly in a itemized reciept
+At the bottom there is a menu using 1 2 3 4 5 to show menu items;
+┌────────────────────────────────────────────────────────────┐
+│                    ComandLine Budget Calc                  │
+├────────────┬───────────────────────────────────────────────┤
+│  **Income**│  **Bills**                                    │
+│────────────┼───────────────────────────────────────────────│
+│ - Item 1   │ - Bill 1: ..... [$100]                        │
+│ - Item 2   │ - Bill 2: ..... [$50]                         │
+│ ...        │ - Bill 3: ..... [$60]                         │
+│            │ ...                                           │
+│ **Total**  │ **Total**                                     │
+│ $XXXX      │ $XXXX                                         │
+├────────────┴───────────────────────────────────────────────┤
+│                     **Quick Actions**                      │
+│  [1] Home  [2] Add Income  [3] Add Bill  [4] ...  [5] Exit │
+└────────────────────────────────────────────────────────────┘
