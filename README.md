@@ -19,3 +19,6 @@
 
 #### 📚 Check Out My Repositories
 - Explore my GitHub repositories to see my coding journey, game projects, software programming, and documentation.
+
+#### Technical Projects & Descriptions
+-<i> UISH - UIdaho Shell This is a Shell projet written in C it is essentially just a normal shell that can run all shell commands and intake variables.
