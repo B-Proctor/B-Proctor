@@ -1,24 +1,30 @@
-### Hi, I'm Braydyn! 👋
+# Hi, I'm Braydyn
 
-🎓 Junior in Computer Science at the University of Idaho 🌲
+## About Me
+Junior in Computer Science at the University of Idaho 
 
-🕹️ Passionate about Game Development and Software Engineering 💻
+Passionate about Game Development and Software Engineering 
+Proficient in C++, C#, JavaScript, and skilled in multiple other programming languages 
 
-🚀 Proficient in C++, C#, JavaScript, and versed in multiple other programming languages 🚀
+Currently engaged in software engineering projects, with a focus on game development 
 
-🎮 Currently crafting code for fun and games 🎮
+## Current Projects
+- **Software Engineering Projects**: Actively involved in a variety of software engineering endeavors, constantly seeking to innovate and improve.
 
-#### 🔭 What I'm Currently Working On
-- HorrorFPS in Unity C#
-- Software Engineering Projects
-
-#### 💬 Let's Connect
-- I'm always up for a chat or collaboration with like-minded tech enthusiasts!
-- 📧 Email: [braydynproctor1@gmail.com](mailto:braydynproctor1@gmail.com)
+## Let's Connect
+- Open to discussions and collaborations with fellow tech enthusiasts and professionals.
+- Email: [braydynproctor1@gmail.com](mailto:braydynproctor1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/braydyn-proctor-a1446223b/)
 
-#### 📚 Check Out My Repositories
-- Explore my GitHub repositories to see my coding journey, game projects, software programming, and documentation.
+## GitHub Repositories
+Explore my [GitHub](https://github.com/B-Proctor) to see my projects, code samples, and technical documentation.
 
-#### Technical Projects & Descriptions
--<i> UISH - UIdaho Shell This is a Shell projet written in C it is essentially just a normal shell that can run all shell commands and intake variables.
+## Technical Projects
+### UISH - UIdaho Shell
+Developed a custom shell in C that supports all standard shell commands and variable inputs, showcasing my skills in low-level programming and command-line interface design.
+### Game Development Projects & Tutorials 
+Designed various small game projects in Unity utilizing C#. Taught online video tutorials through educationecosystem.com.
+###IT Help Desk (Twin Falls High School)
+Worked on numerous IT projects including maintenance and repair of school computers, printers, projectors, etc. Set up streaming platforms for the school's sports events, and various other projects.
+
+<!-- Add more projects as needed -->
