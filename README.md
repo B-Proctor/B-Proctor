@@ -6,7 +6,7 @@ Junior in Computer Science at the University of Idaho
 Passionate about Game Development and Software Engineering 
 Proficient in C++, C#, JavaScript, and skilled in multiple other programming languages 
 
-Currently engaged in software engineering projects, with a focus on game development 
+Currently engaged in software engineering projects, with a focus on game development To see a list of software engineering projects please see [This Page for the Descriptions](https://github.com/B-Proctor/portfolio/seprojects)
 
 ## Current Projects
 - **Software Engineering Projects**: Actively involved in a variety of software engineering endeavors, constantly seeking to innovate and improve.
