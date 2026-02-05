@@ -1,7 +1,7 @@
 # Hi, I'm Braydyn
 
 ## About Me
-Junior in Computer Science at the University of Idaho 
+Senior in Computer Science at the University of Idaho 
 
 Passionate about Game Development and Software Engineering 
 Proficient in C++, C#, JavaScript, and skilled in multiple other programming languages 
