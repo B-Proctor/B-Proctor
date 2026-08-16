@@ -1,15 +1,15 @@
 # Hi, I'm Braydyn
 
-I'm a software engineer and Computer Science graduate from the University of Idaho with experience in application development, automation, systems programming, and game-development.
+I'm a **Software Engineer and Computer Science graduate from the University of Idaho** with experience in application development, automation, systems programming, networking, and game development.
 
-I am currently employed as an Associate Engineer. My interests include software architecture, developer tools, game engines, simulation systems, networking, and building polished desktop applications.
+I'm currently working as an **Associate Engineer** while continuing to build open-source tools, desktop applications, game technology, and experimental software systems.
 
 ## About Me
 
-* B.S. in Computer Science from the **University of Idaho**
-* Passionate about game engines, game development, developer tooling, and desktop software
+* B.S. in **Computer Science** from the University of Idaho
+* Interested in software architecture, networking, developer tooling, simulation, and game-engine technology
 * Experienced with C, C++, C#, Python, Java, JavaScript, TypeScript, and SQL
-* Interested in designing complete, practical software—not just prototypes
+* I enjoy building complete, practical software rather than stopping at prototypes
 
 ## Technologies
 
@@ -19,47 +19,33 @@ C • C++ • C# • Python • Java • JavaScript • TypeScript • SQL
 
 **Frameworks and Platforms**
 
-.NET • Avalonia • Unity • Django • React • SkiaSharp • OpenGL • SQLite * ImGui
+.NET • Avalonia • Unity • Django • React • SkiaSharp • OpenGL • OpenTK • SQLite • ImGui
 
 **Tools and Practices**
 
-Git • GitHub • Linux • Visual Studio • VS Code • Docker • Jira • Agile Development • Object-Oriented Design • Automated Testing
+Git • GitHub • Linux • Visual Studio • VS Code • Docker • Jira • Agile Development • Object-Oriented Design • Automated Testing • CI/CD
 
 ## Featured Projects
 
-### Virelo Engine
+### Pixel Art Studio (v0.1 Coming October)
 
-A standalone C# game engine and editor inspired by modern engines such as Unity and Godot.
-
-The project uses Avalonia and SkiaSharp with an entirely programmatic interface. Its architecture includes an editor, runtime, scene system, asset workflow, inspector, hierarchy, viewport, console, and C# scripting support.
-
-### Universal Data Mapper
-
-A cross-platform data visualization and mapping application built with C#, .NET 8, OpenTK, OpenGL, and SQLite.
-
-The application includes a modular import pipeline, interactive canvas tools, SVG rendering, database inspection, and strongly typed data models.
+An open-source pixel-art creation application built with C#, .NET, Avalonia, and SkiaSharp, featuring a custom canvas, drawing tools, layers, palettes, and export workflows.
 
 ### CharAI
 
-A biochar placement optimization platform developed as a University of Idaho capstone project.
-
-The system uses Python, Django REST, React, TypeScript, SQL, and geographic elevation data to help analyze potential biochar placement locations.
+A biochar placement optimization platform developed as a University of Idaho capstone project using Python, Django REST, React, TypeScript, SQL, and geographic elevation data.
 
 ### UISH — University of Idaho Shell
 
-A custom Unix-style command-line shell written in C.
-
-UISH supports standard shell commands, variable input, process execution, and other foundational operating-system concepts.
+A custom Unix-style command-line shell written in C that explores process execution, command parsing, variables, and foundational operating-system concepts.
 
 ### Simulated Operating System
 
-A C++ simulation of core operating-system functionality, including process scheduling, resource management, and system-level data structures.
+A C++ simulation of core operating-system functionality including process scheduling, resource management, and system-level data structures.
 
 ### Game Development Projects
 
-A collection of games, prototypes, tools, and technical experiments created primarily with Unity and C#.
-
-My work includes procedural generation, enemy AI, inventory systems, combat mechanics, custom editors, rendering tools, and complete gameplay prototypes.
+A collection of games, prototypes, tools, and technical experiments created primarily with Unity and C#, including work with procedural generation, AI, inventory systems, combat, and custom editor tooling.
 
 View additional project descriptions here:
 
@@ -69,11 +55,10 @@ View additional project descriptions here:
 
 I'm currently focused on:
 
-* Expanding the Virelo game engine and editor
-* Building PAS (Pixel-Art-Studio) an open source pixel art creation platform.
+* Developing **Pixel Art Studio** as an open-source pixel-art creation platform
 * Improving my knowledge of networking and communication systems
 * Exploring engine architecture, rendering, tooling, and simulation
-* Developing original games and reusable game-development technology
+* Building original games and reusable development technology
 
 ## Connect With Me
 
